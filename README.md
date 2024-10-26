@@ -5,7 +5,7 @@
 🎓 **Biomedical Engineering Student** | 🧠 **AI & Embedded Systems Enthusiast**  
 🔬 Exploring how **AI + Healthcare** can shape the future.  
 
----
+⬐⬑⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -26,11 +26,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="50" height="50"/>
   </a>
   <a href="https://mlflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="MLflow" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/dataline-io/dataline-icons/main/mlflow.png" title="MLflow" width="50" height="50"/>
   </a>
 </p>
 
----
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 🚀 Featured Projects  
 
@@ -48,7 +48,7 @@
 ### 💡 [Home-Based Phototherapy Device](https://github.com/rklorD456/phototherapy-device)  
 - Designed a **phototherapy device** using SolidWorks and embedded systems to treat psoriasis at home.
 
----
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 🏅 Achievements & Certifications  
 - 🥇 **1st Place** – Mate ROV Competition (Regional, 2024)  
@@ -56,7 +56,7 @@
 - 📜 **Machine Learning Specialization** – DeepLearning.AI  
 - 🔧 **Comprehensive Guide to MLOps Tools** – Udemy  
 
----
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
@@ -68,31 +68,30 @@
   <img src="https://streak-stats.demolab.com/?user=rklorD456&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 🤝 Let's Connect!  
 <p align="center">
   <a href="mailto:mahmdelegndy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail--v1.png" title="Email" width="50" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-elgendy-1252a3240/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" title="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://github.com/rklorD456">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" title="GitHub" width="50" height="50" />
   </a>
 </p>
 
----
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## 📅 What I’m Currently Working On  
 - Fine-tuning NLP models using **Hugging Face Transformers**.  
 - Exploring the intersection of **MLOps** and **Generative AI**.  
 - Diving in DevOps and integration with DeepLearning
 
----
+
+⬐⬑⬐⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑⬑
 
 ## ⚡ Fun Fact  
 *"The only thing more stable than TensorFlow is... my curiosity!"* 😄
-
----
