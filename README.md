@@ -27,14 +27,6 @@
   <a href="https://mlflow.org/"><img src="https://github.com/user-attachments/assets/f36a351e-e7d8-40bf-9232-6edae5d0f656" title="MLflow" width="70" height="30" style="margin: 10px;"/></a>
 </div>
 
----
-
-
-## 🏅 Achievements & Certifications  
-- 🥇 **1st Place** – Mate ROV Competition (Regional, 2024)  
-- 🎓 **Deep Learning Specialization** – DeepLearning.AI  
-- 📜 **Machine Learning Specialization** – DeepLearning.AI  
-- 🔧 **Comprehensive Guide to MLOps Tools** – Udemy  
 
 ---
 
@@ -47,6 +39,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rklorD456&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
+---
+
+
+## 🏅 Achievements & Certifications  
+- 🥇 **1st Place** – Mate ROV Competition (Regional, 2024)  
+- 🎓 **Deep Learning Specialization** – DeepLearning.AI  
+- 📜 **Machine Learning Specialization** – DeepLearning.AI  
+- 🔧 **Comprehensive Guide to MLOps Tools** – Udemy  
+
+
 
 ---
 
