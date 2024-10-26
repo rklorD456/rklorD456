@@ -29,23 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌌 [Fine-Tuning Stable Diffusion](https://github.com/rklorD456/stable-diffusion-project)  
-- Fine-tuned **Stable Diffusion** for text-to-image generation with **MLflow** tracking and AWS dataset management.  
-![Stable Diffusion GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
----
-
-### 🧮 [Customer Churn Prediction](https://github.com/rklorD456/customer-churn-prediction)  
-- Developed a **TensorFlow-based model** to predict customer churn with a focus on actionable insights.
-
----
-
-### 💡 [Home-Based Phototherapy Device](https://github.com/rklorD456/phototherapy-device)  
-- Designed a **phototherapy device** using SolidWorks and embedded systems to treat psoriasis at home.
-
----
 
 ## 🏅 Achievements & Certifications  
 - 🥇 **1st Place** – Mate ROV Competition (Regional, 2024)  
